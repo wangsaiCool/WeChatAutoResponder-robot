@@ -1,1 +1,0 @@
-# WeChatAutoResponder-rebot
